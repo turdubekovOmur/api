@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<requestDto>
+    <account>9997111222</account>
+    <amount>100</amount>
+    <command>PAY</command>
+    <date/>
+    <id>11111</id>
+</requestDto>
